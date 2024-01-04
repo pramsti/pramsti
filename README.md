@@ -1,4 +1,4 @@
-<h1 align="center">Halo nama ku Gantaaaaaaaaa</h1>
+<h1 align="center">Hi 👋, I'm Gantaaaaaaaaa</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramsti&label=Profile%20views&color=0e75b6&style=flat" alt="pramsti" /> </p>
